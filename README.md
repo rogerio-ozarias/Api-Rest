@@ -5,7 +5,7 @@ Foi criado a pasta Server para fornecimento da Api e a pasta Client para consumo
 
 Em cada pasta, tem o arquivo de configuração config.php
 
-A Api foi criada utilizando PHP 5.4 puro e Mysql 5.
+A Api foi criada utilizando servidor Linux, Apache, PHP 5.4 puro e Mysql 5.
 
 Para teste foi utilizado o PHPUnit-4
 
