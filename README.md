@@ -11,6 +11,7 @@ Para teste foi utilizado o PHPUnit-4
 
 Foi utilizado o Zend_Db do Zend Framework 1 para abstração do banco de dados
 
-O arquivo sql.sql contém o dumb do Banco de dados 
-sql.sql
+O arquivo sql.sql contém o dumb do Banco de dados
+
+Obrigado!
 
