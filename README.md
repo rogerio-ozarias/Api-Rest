@@ -5,9 +5,12 @@ Foi criado a pasta Server para fornecimento da Api e a pasta Client para consumo
 
 Em cada pasta, tem o arquivo de configuração config.php
 
-A Api foi criada utilizando PHP 5.4 puro
+A Api foi criada utilizando PHP 5.4 puro e Mysql 5.
 
 Para teste foi utilizado o PHPUnit-4
 
-O arquico sql.sql contém o dumb do Banco de dados 
+Foi utilizado o Zend_Db do Zend Framework 1 para abstração do banco de dados
+
+O arquivo sql.sql contém o dumb do Banco de dados 
 sql.sql
+
