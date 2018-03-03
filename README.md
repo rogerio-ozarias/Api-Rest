@@ -3,7 +3,7 @@ Criação de uma Api Rest de Tarefas
 
 Para mostrar como funciona o fluxo de dados numa API, froi criado este exemplo utilizando PHP puro, sem utilizar a magica dos framework.
 
-Foi criado a pasta Server para fornecimento da Api e a pasta Client para consumo da Api
+A pasta \Server para fornecimento da Api e a pasta \Client para consumo da Api
 
 Em cada pasta, tem o arquivo de configuração config.php
 
